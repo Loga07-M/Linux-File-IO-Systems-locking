@@ -137,12 +137,10 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 ```
-
-##OUTPUT 1:
+## OUTPUT
 
 <img width="568" height="142" alt="image" src="https://github.com/user-attachments/assets/6f28137f-2926-4fe3-aec3-0184a0c587c1" />
 
-##OUTPUT 2:
 
 <img width="1036" height="791" alt="image" src="https://github.com/user-attachments/assets/66dd59d1-60e0-4126-9f38-92f82e244948" />
 
